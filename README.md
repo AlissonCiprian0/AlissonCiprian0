@@ -14,7 +14,7 @@ Protótipo de um ecommerce de games feito para fins de estudo.
 * **Status:** Concluído
 ---
 
-### 📊 [Grafo de relacionamentos](https://github.com/alissoncipriano/grafo)
+### 📊 [Grafo de relacionamentos](https://github.com/AlissonCiprian0/grafo)
 Um grafo feito com D3.js para a visualização de relacionamentos entre entidades.
 * **Tecnologias:** `React` `CSS` `D3.js`
 * **Status:** Concluído
@@ -48,7 +48,7 @@ Projeto de um jogo simples feito para fins de estudo. O jogo simula uma batalha 
 
 ---
 
-### 📝 [Lista de tarefas](https://github.com/alissoncipriano/typescript-todo-app)
+### 📝 [Lista de tarefas](https://github.com/AlissonCipriano/typescript-todo-app)
 Lista de tarefas feita para estudo das tecnologias React e TypeScript.
 * **Tecnologias:** `React` `JS` `TypeScript`
 * **Status:** Concluído
