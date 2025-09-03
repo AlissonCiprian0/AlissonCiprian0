@@ -48,7 +48,7 @@ Projeto de um jogo simples feito para fins de estudo. O jogo simula uma batalha 
 
 ---
 
-### 📝 [Lista de tarefas](https://github.com/AlissonCipriano/typescript-todo-app)
+### 📝 [Lista de tarefas](https://github.com/AlissonCiprian0/typescript-todo-app)
 Lista de tarefas feita para estudo das tecnologias React e TypeScript.
 * **Tecnologias:** `React` `JS` `TypeScript`
 * **Status:** Concluído
